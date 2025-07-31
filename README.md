@@ -1,4 +1,4 @@
-![IMG_2532](https://github.com/user-attachments/assets/7f9f4b54-0ad7-430d-9d1a-01119452d231)Original App Design Project
+Original App Design Project
 
 # Recco
 
@@ -73,7 +73,7 @@ Recommendation Feed (Home Tab)
 ...
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
-![IMG_2532](https://github.com/user-attachments/assets/959bb1ad-a318-4580-bcc7-724ca1fe1351)
+<img width="2732" height="2021" alt="Image" src="https://github.com/user-attachments/assets/f7815414-c543-4fc5-be23-0082052b4ada" />
 
 
 [BONUS] Digital Wireframes & Mockups

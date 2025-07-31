@@ -1,4 +1,6 @@
-# Recco-App
+Original App Design Project
+
+# Recco
 
 Table of Contents
 Overview

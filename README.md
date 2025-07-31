@@ -8,16 +8,20 @@ Schema
 Overview
 Description
 [Description of your app]
+A social feed app that lets friends recommend and share media (movies, books, podcasts, restaurants, etc.) directly with each other.
 
 App Evaluation
 [Evaluation of your app across the following attributes]
+- **Category:** Social / Lifestyle
+- **Mobile:** Mobile is key for quick logging of recommendations and checking updates from friends on the go. Camera or photo upload can be used for sharing media screenshots or locations.
+- **Story:** In a world of overwhelming choices, this app fosters deeper connection through shared interests and encourages discovery through people you know.
+- **Market:** Ideal for people wanting to connect on a deeper level and share their interests
+- **Habit:** Users check the feed daily or weekly to see new friend recommendations and quickly log what they want to try later.
+- **Scope:**
+V1: Users can add friends, post recommendations, and view a scrollable feed.
+V2: Add a bookmark feature to save recommendations.
+V3: Add reactions/comments, category filters, and sharing external links.
 
-Category:
-Mobile:
-Story:
-Market:
-Habit:
-Scope:
 Product Spec
 1. User Stories (Required and Optional)
 Required Must-have Stories

@@ -27,35 +27,53 @@ V3: Add reactions/comments, category filters, and sharing external links.
 Product Spec
 1. User Stories (Required and Optional)
 Required Must-have Stories
-
 [fill in your required user stories here]
-...
+- User Authentication
+- Recommendation Feed
+- Add a Recommendation
+- Friend System
+
 Optional Nice-to-have Stories
-
 [fill in your required user stories here]
-...
+- View & Save Recs
+- Search (for various genres)
+- Rating System
+- Notification
+
 2. Screen Archetypes
 [list first screen here]
+- Login Screen
+- Registration Screen
+  
 [list associated required story here]
 ... list second screen here]
+- Home Feed (Recommendations Feed)
+- Create Recommendation Screen
 [list associated required story here]
 ...
-3. Navigation
+- Search for Friends Screen
+- Profile Screen
+4. Navigation
 Tab Navigation (Tab to Screen)
 
 [fill out your first tab]
+Home tab
 [fill out your second tab]
+Add a rec Tab
 [fill out your third tab]
+Settings Tab
 Flow Navigation (Screen to Screen)
 
 [list first screen here]
+Recommendation Feed (Home Tab)
 [list screen navigation here]
-...
+- Taps rec, leads to rec detail view
 [list second screen here]
 [list screen navigation here]
 ...
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
+![Uploading IMG_2532.jpeg…]()
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype

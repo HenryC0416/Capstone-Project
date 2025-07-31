@@ -71,9 +71,12 @@ Recommendation Feed (Home Tab)
 [list second screen here]
 [list screen navigation here]
 ...
+
+
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
-<img width="2732" height="2021" alt="Image" src="https://github.com/user-attachments/assets/f7815414-c543-4fc5-be23-0082052b4ada" />
+<img width="2732" height="2021" alt="image" src="https://github.com/user-attachments/assets/cd67180f-16e7-4ab7-989e-f7565938c135" />
+
 
 
 [BONUS] Digital Wireframes & Mockups
